@@ -10,6 +10,10 @@
 
 4. Random Images: I have used random images as placeholders for your photo listing. These images are fetched from the MongoDB database.
 
+# ScreenShots:
+
+![Screenshot (2).png](public/Screenshot (2).png)
+![Screenshot (1).png](public/Screenshot (1).png)
 
 # Getting Started with Create React App
 
