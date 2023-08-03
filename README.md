@@ -12,8 +12,8 @@
 
 # ScreenShots:
 
-![Local Image](public/Screenshot (2).png)
-![Local Image](public/Screenshot (1).png)
+![Local Image](public/Screenshot(2).png)
+![Local Image](public/Screenshot(1).png)
 
 # Getting Started with Create React App
 
