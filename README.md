@@ -12,8 +12,8 @@
 
 # ScreenShots:
 
-![Screenshot(2)](Screenshot(2).png)
-![Screenshot(1)](Screenshot(1).png)
+![Screenshot_2](src/Screenshot_2.png)
+![Screenshot_1](src/Screenshot_1.png)
 
 # Getting Started with Create React App
 
