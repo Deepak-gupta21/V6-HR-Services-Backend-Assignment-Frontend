@@ -1,6 +1,6 @@
 #  Assignment - To create a page to display listing of photo with pagination and on click you will get popup and the popup is a slide show using Node API and React as a frontend for backend you can use Mongo and images you can use any random images.
 
-## Response -I have created the  assignment that includes the following functionality:
+## Response - I have created the  assignment that includes the following functionality:
 
 1. Photo Listing Page: created a web page that displays a list of photos using React as the frontend. The photos are fetched from Node API, which is connected to a MongoDB database.
 
